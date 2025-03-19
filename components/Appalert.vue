@@ -1,6 +1,5 @@
 <template>
-    <span>
-      <slot />
-    </span>
-  </template>
-  
+  <span>
+    <slot />
+  </span>
+</template>
